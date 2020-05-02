@@ -1,9 +1,5 @@
 teste
 
-<<<<<<< HEAD
-
-teste server003 -2
-
-=======
 teste Server003
->>>>>>> 46cf5e8d658da06800b5bd7c550486b164a3d6e2
+teste Oracle001
+
